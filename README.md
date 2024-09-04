@@ -1,4 +1,4 @@
-# Multi-agent Meeting Example using local LiveKit server:
+# Multi-agent meeting example using local LiveKit server:
 
 There's a bunch of instructions here, but it's all fairly straightforward. The agents are slightly modified from the [fast agent example](https://github.com/dsa/fast-voice-assistant/) to explicitly have separate names and run on different ports. This will be more automated in a future release, but for now the tweaks are to get things to work.
 
