@@ -14,7 +14,7 @@ Usually you'd run the agent(s) first and then start a session and the agent(s) w
 3. `cp .env.example .env.local`
 4. `pnpm dev`
 5. open `localhost:3000` in a browser and click 'Start Meeting'
-6. note the room name in your browser address bar: http://localhost:3000/rooms/<room-name>
+6. note the room name in your browser address bar: `http://localhost:3000/rooms/<room-name>`
 
 ## Run first agent
 1. `cd agent-1`
